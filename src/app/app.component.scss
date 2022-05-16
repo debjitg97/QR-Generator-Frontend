@@ -1,0 +1,23 @@
+nb-card {
+    width: 50%;
+    margin: auto;
+    height: 70vh;
+}
+
+@media only screen and (max-width: 768px) {
+    nb-card {
+        width: 80%;
+    }
+}
+
+.error-font {
+    font-size: 1.5rem;
+}
+
+a {
+    font-size: 1.5rem;
+}
+
+.h-90 {
+    height: 90% !important;
+}
